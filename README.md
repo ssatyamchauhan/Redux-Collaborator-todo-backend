@@ -13,6 +13,7 @@ Where you enter your credentials
 
 ```
 secret = your secret will here
+gmailpass = yourgmailpassword
 host = localhost
 user = username of mysql-server
 password = password of mysql-server
